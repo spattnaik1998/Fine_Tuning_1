@@ -129,27 +129,3 @@ comparable_training.py
 └── Prediction Examples
 ```
 
-## 🤝 Contributing
-
-Feel free to:
-- Add new architectures for comparison
-- Experiment with different datasets
-- Improve visualization components
-- Optimize hyperparameters
-
-## 📜 License
-
-This project is open source and available under the MIT License.
-
-## 🙏 Acknowledgments
-
-- TensorFlow/Keras team for excellent deep learning framework
-- ImageNet dataset creators for pre-trained weights
-- Dataset providers for cats/dogs and sports classification data
-
----
-
-**Built with**: TensorFlow 2.x, Keras, Python 3.x, Google Colab
-
-**Author**: [Your Name]  
-**Last Updated**: August 2025
